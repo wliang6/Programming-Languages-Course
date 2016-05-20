@@ -1,0 +1,7 @@
+push 3
+push 0
+div
+push 100
+push 49
+rem
+quit

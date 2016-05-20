@@ -1,0 +1,10 @@
+push 10
+push 15
+push 30
+sub
+:true:
+swap
+add
+pop
+neg
+quit
